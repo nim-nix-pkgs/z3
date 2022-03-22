@@ -9,7 +9,7 @@
   
   inputs.src-z3-master.flake = false;
   inputs.src-z3-master.owner = "zevv";
-  inputs.src-z3-master.ref   = "refs/heads/master";
+  inputs.src-z3-master.ref   = "master";
   inputs.src-z3-master.repo  = "nimz3";
   inputs.src-z3-master.type  = "github";
   
